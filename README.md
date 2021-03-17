@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Miguel-Rosas24
-- 👀 I’m interested in biomedical
-- 🌱 I’m currently learning MATLAB and python
-- 💞️ I’m looking to collaborate on projects related to biomedical
+- 👋 Hi, I’m @Miguel-Rosas24.
+- 👀 I’m interested in biomedical.
+- 🌱 I’m currently learning MATLAB and python.
+- 💞️ I’m looking to collaborate on projects related to biomedical.
 - 📫 How to reach me 
 email: rosasj.miguel99@gmail.com
 <!---
